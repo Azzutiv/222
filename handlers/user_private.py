@@ -34,7 +34,7 @@ async def MifJourney(message: types.Message):
     )
     await message.answer('Ссылка: https://stability.ai/stable-diffusion')
 
-    await message.answer('32222222222222222222222222. MidJourney')
+    await message.answer('3. MidJourney')
     await message.answer(
         'MidJourney — одна из самых популярных нейросетей для генерации изображений. Она создаёт высококачественные и художественные изображения по текстовым запросам.'
     )
